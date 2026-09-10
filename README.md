@@ -1,8 +1,8 @@
 # Hi, I'm Jefferson Rennan 👋
 
-Backend Developer focused on building reliable, secure and well-structured APIs with Python.
+Backend Developer focused on building reliable, secure and well-structured applications and APIs with Python.
 
-Currently improving my skills in software architecture, databases, testing, Docker, CI/CD and cybersecurity.
+Currently improving my skills in software architecture, databases, testing, Docker, CI/CD and cybersecurity, with the long-term goal of expanding into Full Stack Development.
 
 ## 🧑‍💻 About me
 
@@ -11,7 +11,7 @@ Currently improving my skills in software architecture, databases, testing, Dock
 - 🔹 Building and testing **REST APIs**
 - 🔹 Working with **Docker, Git and GitHub Actions**
 - 🔹 Learning **Linux and Cybersecurity**
-- 🔹 Interested in secure and maintainable backend systems
+- 🔹 Interested in secure, maintainable and well-tested software
 
 ## 🌎 Languages
 
@@ -53,7 +53,9 @@ Currently improving my skills in software architecture, databases, testing, Dock
 - C++
 - Alembic
 
-## 🚗 Featured Project — Locadora FastAPI
+## 🚀 Featured Projects
+
+### 🚗 Locadora FastAPI
 
 A full-stack vehicle rental management system that evolved from an OOP project into a deployed web application.
 
@@ -73,6 +75,30 @@ Main technologies and practices:
 
 🔗 [View the repository](https://github.com/Jefferson21092008/locadora-fastapi)
 
+---
+
+### 💳 Financial Management & Boleto Analysis
+
+A local desktop application developed in Python for company financial management, boleto control and preventive inconsistency analysis.
+
+Main technologies and practices:
+
+- Python
+- Tkinter
+- SQLite
+- Layered architecture
+- Secure password hashing
+- Audit logging
+- Backup and restore
+- Preventive boleto inconsistency analysis
+- Automated tests
+- Ruff
+- Coverage
+- GitHub Actions CI
+- Windows executable with PyInstaller
+
+🔗 [View the repository](https://github.com/Jefferson21092008/gestao-financeira-boletos)
+
 ## 📚 Currently learning
 
 - Backend architecture
@@ -80,7 +106,8 @@ Main technologies and practices:
 - Linux
 - Cybersecurity
 - Software testing
+- Full Stack Development
 
 ## 🎯 Current focus
 
-Growing as a **Backend Developer** while building a stronger foundation in **Cybersecurity**.
+Growing as a **Backend Developer**, strengthening my knowledge of software engineering and application security, and gradually expanding toward **Full Stack Development**.
