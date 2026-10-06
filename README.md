@@ -131,7 +131,7 @@ The project evolved from a simple OOP application into a full-stack system with 
 
 ## 🛡️ SecureDesk
 
-A full-stack Service Desk application focused on backend security and access control.
+A full-stack Service Desk application focused on backend security, access control and production-oriented architecture.
 
 ### Highlights
 
@@ -151,8 +151,12 @@ A full-stack Service Desk application focused on backend security and access con
 - Production deployment
 - **218 automated tests**
 
-> Repository / Demo links can be added here.
+### Links
 
+- [Repository](https://github.com/Jefferson21092008/SecureDesk)
+- [Live Application](https://securedesk-e2pb.onrender.com)
+- [Swagger / API Docs](https://securedesk-e2pb.onrender.com/api/docs)
+  
 ---
 
 ## 💳 Financial Management & Boleto Analysis
