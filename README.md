@@ -6,6 +6,9 @@ I currently work mainly with **FastAPI, PostgreSQL, SQLAlchemy, Redis, Docker, a
 
 I'm currently completing a **Technical High School program in Information Technology** and looking for opportunities in **Backend Development / Software Engineering**.
 
+[GitHub](https://github.com/Jefferson21092008) •
+[LinkedIn](https://www.linkedin.com/in/jefferson-rennan-dos-santos-silva-181b21419)
+
 ---
 
 ## 🧑‍💻 About Me
